@@ -5,7 +5,6 @@ come explore my GitHub!
 - 🌱 Full-stack software developer + AI, ML, data science... 
 - 👯 I recently interned at Oracle Solution Centre, here's a [sneak peek](https://youtu.be/ZDu90Wbf6_4)
 - 🤔 I’m currently exploring what to do before National Service
-- 🌐 Please check out my [portfolio](https://wesleychai.vercel.app/) for more information
 - 💬 Connect with me + ask me anything via [LinkedIn](https://linkedin.com/in/wes-chai)
 
 <!--
@@ -16,4 +15,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 😄 Pronouns: ...
 - 📫
+- 🌐 Please check out my [portfolio](https://wesleychai.vercel.app/) for more information
 -->
