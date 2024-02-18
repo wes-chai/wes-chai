@@ -3,7 +3,7 @@ come explore my GitHub!
 
 - 🌏 I live in Singapore
 - 🌱 Full-stack software developer + AI, ML, data science... 
-- 👯 I recently interned at Oracle Solution Centre, here's a [sneak peek](https://youtu.be/ZDu90Wbf6_4)
+- 👯 I recently interned at Oracle Solution Centre (Sep 2023 - Feb 2024)
 - 🤔 I’m currently exploring what to do before National Service
 - 💬 Connect with me + ask me anything via [LinkedIn](https://linkedin.com/in/wes-chai)
 
