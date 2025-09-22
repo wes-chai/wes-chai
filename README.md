@@ -1,10 +1,10 @@
 ### Hey, I'm Wesley👋
 come explore my GitHub!
 
-- 🌏 I live in Singapore
+- 🌏 Proud to call the bustling, tropical city-state of Singapore home
 - 🌱 Full-stack software developer + AI, ML, data science... 
-- 👯 I recently interned at Oracle Solution Centre (Sep 2023 - Feb 2024)
-- 🤔 I’m currently exploring what to do before National Service
+- 👯 Prev: Software Engineer Intern for Oracle (Sep 2023 - Feb 2024)
+- 🪖 Full-time National Serviceman (NSF) until early May 2026
 - 💬 Connect with me + ask me anything via [LinkedIn](https://linkedin.com/in/wes-chai)
 
 <!--
